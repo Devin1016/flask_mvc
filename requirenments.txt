@@ -1,3 +1,4 @@
 flask
 flask-sqlaalchemy
 mysqlclient
+flask_scripy
